@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mysqlTest1/lib/lombok-1.18.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mysqlTest1/lib/hadoop-common-2.7.3.3-baidu.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mysqlTest1/lib/commons-lang3-3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mysqlTest1/lib/guava-20.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mysqlTest1/lib/commons-lang3-3.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
